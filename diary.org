@@ -1,0 +1,55 @@
+* Mac OS X keyboard shortcuts
+
+1. =Command+Option+Control+Eject=
+   *Instantly* shutdown your Mac. Make sure you've saved any open files.
+
+2. =Command+Option+Eject=
+   Put your Mac to sleep.
+
+3. =Command+Shift+A/U/D=
+   These keyboard shortcuts are used to navigate around the Finder. To open
+   the Applications folder on your Mac, press =Command+Shift+A= in an opened
+   Finder window. Press =Command+Shift+U= to open the Utility folder; and, press
+   =Command+Shift+D= to open your Desktop folder in the Finder. These keyboard
+   shortcuts can also be used when in an opened save dialog to navigate to these
+   folder.
+
+4. =Command+Shift+I=
+   When used inside of Safari, this keyboard shortcut will automatically generate
+   a new email message inside of Mail.app and paste the link of the Web page
+   you were browsing in the body text. This shortcut is great for quickly sharing
+   a website with a friend via email.
+
+5. =Control+D=
+   The "Delete" key on the Mac instead functions as a backspace. Use =Control+D=
+   in any text area on your Mac to delete from the front of the cursor.
+
+6. =Command+Control+Option+8=
+   Use this shortcut to invert the colors on your Mac's screen. (NOTE: This won't
+   work until you go to System Preference > Keyboard > shortcuts > Accessibility
+   and tick the "Invert Colors" box)
+
+7. =Command+Control+D=
+   When writing, press =Command+Control+D= to quickly look up the meaning of a
+   word with your mouse cursor over top of it.
+
+8. =Command+Shift+4+Space=
+   This keyboard combination allows us to capture a screenshot of only the window
+   we need. To grab just a one-window screenshot, press =Command+Shift+4=, then
+   when the crosshairs appear, press the space bar. The cross hairs will change
+   to a picture of a camera that can be placed over top of the window to be
+   captured and clicked. The resulting window-only screenshot will appear on your
+   Desktop.
+
+9. =Command+Option+M=
+   To minimize all of your opened windows and de-clutter your screen, just press
+   =Command+Option+M= to have all of the window minimized to the Dock.
+
+10. =Command+Shift+Option+Esc=
+    =Command+Shift+Option+Esc= to instantly Force Quit the application, and
+    bypassing the Force Quit app.
+
+11. =Command+`=
+    =Command+Shift+Tab= is a great way to cycle through all of the different
+    applications and windows opened on your Mac. But, =Command+`= will cycle
+    through all of the opened windows in the currently active application.
