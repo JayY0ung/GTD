@@ -1,1 +1,13 @@
-我的QQ号：671335721
+#+STARTUP: hidestars
+#+STARTUP: indent
+#+SEQ_TODO: FIXED FIXME
+
+* Tasks
+  :PROPERTIES:
+  :CATEGORY: Tasks
+  :END:
+* Notes
+  :PROPERTIES:
+  :CATEGORY: Notes
+  :END:
+  QQ备用号：671335721

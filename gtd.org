@@ -1,8 +1,17 @@
 #+STARTUP: hidestars
 #+STARTUP: indent
+#+SEQ_TODO: FIXME FIXED
 
+* Tasks
+:PROPERTIES:
+:CATEGORY: Tasks
+:END:
 # 需关注的编程语言
-* TODO Clojure & Slime
+** TODO Clojure & Slime
   1. 查看相关文档,最好是官方文档
   2. youtube教学视频
   3. 在emacs上实践(掌握common lisp)
+* Notes
+:PROPERTIES:
+:CATEGORY: Notes
+:END:
