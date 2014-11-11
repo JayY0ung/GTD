@@ -1,13 +1,12 @@
 #+STARTUP: hidestars
 #+STARTUP: indent
-#+SEQ_TODO: FIXED FIXME
 
 * Tasks
-  :PROPERTIES:
+:PROPERTIES:
   :CATEGORY: Tasks
   :END:
 * Notes
-  :PROPERTIES:
+:PROPERTIES:
   :CATEGORY: Notes
   :END:
-  QQ备用号：671335721
+QQ备用号：671335721

@@ -1,6 +1,5 @@
 #+STARTUP: hidestars
 #+STARTUP: indent
-#+SEQ_TODO: FIXME FIXED
 
 * Tasks
 :PROPERTIES:

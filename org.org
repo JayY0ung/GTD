@@ -1,0 +1,11 @@
+#+STARTUP: hidestars
+#+STARTUP: indent
+
+* Tasks
+:PROPERTIES:
+  :CATEGORY: Tasks
+  :END:
+* Notes
+:PROPERTIES:
+  :CATEGORY: Notes
+  :END:

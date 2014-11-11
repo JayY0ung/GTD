@@ -1,3 +1,6 @@
+#+STARTUP: hidestars
+#+STARTUP: indent
+
 * Mac OS X keyboard shortcuts
 
 1. =Command+Option+Control+Eject=

@@ -1,12 +1,11 @@
 #+STARTUP: hidestars
 #+STARTUP: indent
-#+SEQ_TODO: FIXME FIXED
 
 * Tasks
-  :PROPERTIES:
+:PROPERTIES:
   :CATEGORY: Tasks
   :END:
 * Notes
-  :PROPERTIES:
+:PROPERTIES:
   :CATEGORY: Notes
   :END:
